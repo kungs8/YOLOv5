@@ -1,2 +1,3 @@
 # YOLOv5
 基于现有的YOLOv5复现及其说明
+将Ultralytics公司的Glenn Jocher参与的YOLO进行复现，使用自己的数据训练并预测
